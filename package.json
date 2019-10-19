@@ -1,0 +1,20 @@
+{
+  "name": "Yandex.Praktikum-Node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MankoIvan/Yandex.Praktikum-Node.git"
+  },
+  "keywords": [],
+  "author": "MankoIvan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MankoIvan/Yandex.Praktikum-Node/issues"
+  },
+  "homepage": "https://github.com/MankoIvan/Yandex.Praktikum-Node#readme"
+}
