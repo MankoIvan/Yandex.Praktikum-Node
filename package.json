@@ -2,9 +2,10 @@
   "name": "Yandex.Praktikum-Node",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,15 @@
   "bugs": {
     "url": "https://github.com/MankoIvan/Yandex.Praktikum-Node/issues"
   },
-  "homepage": "https://github.com/MankoIvan/Yandex.Praktikum-Node#readme"
+  "homepage": "https://github.com/MankoIvan/Yandex.Praktikum-Node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-react": "^7.16.0",
+    "nodemon": "^1.19.4"
+  }
 }
