@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/MankoIvan/Yandex.Praktikum-Node#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "eslint": "^6.1.0",
